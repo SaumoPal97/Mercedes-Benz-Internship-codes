@@ -1,0 +1,1 @@
+Most of the work related to this folder has already been done in the aarch64 version. Building OpenJDK is still an issue, although TightVNC can once be tried out as it is Java independant and is shown to work with VirtualGL
